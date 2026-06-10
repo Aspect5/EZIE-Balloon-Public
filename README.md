@@ -4,7 +4,7 @@ In 2023 I designed, built, and launched a scientific weather balloon payload bui
 
 ## What's here
 
-- `docs/` - the SmallSat 2024 paper on EZIE-Mag (I'm a co-author), my AIAA YPSE 2024 presentation, the ISEC poster, and the notebook from a classical mechanics final project that used the EZIE-Mag
+- `docs/` - the SmallSat 2024 paper on EZIE-Mag (I'm a co-author), my AIAA YPSE 2024 presentation, and the notebook from a classical mechanics final project that used the EZIE-Mag
 - `data/smr.60s/` - 60 second averaged magnetometer products from the 2023 flights
 - `data/logs/` - instrument and GPS logs
 - `eclipse-2024/` - poster, analysis notebook, and map from deploying EZIE-Mags along the April 2024 total eclipse path
